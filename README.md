@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <b>Alx Software Engineering Projects</b>
 - 🌱 I’m currently learning <b>Software Engineering & Development.</b>
-- 👯 I’m looking to collaborate on Designing and maintaining software systems. <br>Evaluating and testing new software programs. <br>Optimizing software for speed and scalability. <br>Writing and testing code.
+- 👯 I’m looking to collaborate on Designing and maintaining software systems. Evaluating and testing new software programs. Optimizing software for speed and scalability. Writing and testing code.
 - 💬 I'm interested in offering a real-time solution, creating modern, user-friendly products and services in the most efficient manner.
 - 📫 How to reach me: <b>blessingnwakwuo@outlook.com</b>
 
