@@ -1,17 +1,20 @@
-### Hi there 👋
+![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344)
+<h1 align="center">Hi 👋, I'm Blessing Nwakwuo</h1>
 
-<!--
-**theblessed-coder/theblessed-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on <b>Alx Software Engineering Projects</b>
+- 🌱 I’m currently learning <b>Software Engineering & Development.</b>
+- 👯 I’m looking to collaborate on Designing and maintaining software systems. <br>Evaluating and testing new software programs. <br>Optimizing software for speed and scalability. <br>Writing and testing code.
+- 💬 I'm interested in offering a real-time solution, creating modern, user-friendly products and services in the most efficient manner.
+- 📫 How to reach me: <b>blessingnwakwuo@outlook.com</b>
 
-Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Scentsation Mall
-- 🌱 I’m currently learning Front End Engineering
-- 👯 I’m looking to collaborate on Software development projects
-- 🤔 I’m looking for help with ALX Software Engineering Programme
-<!--
-- 💬 Ask me about ...
-- 📫 How to reach me: https://theblessedcoder.github.io
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- ⚡ Fun fact: ...
+I'm also in search of intern/part-time/full-time/freelance opportunities
+
+-My GitHub Stats and Tech Stacks :
+#### Connect with me:
+  <p align="right">
+  <a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30" height="30" alt="linkedin"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30" height="30" alt="twitter"/></a>
+</p>
 -->
